@@ -12,19 +12,24 @@ In addition to Unity, I'm also familiar with Aseprite for creating and editing 2
 
 ## 🎮 Projects
 
-### 🕹️ Abyss – 2D Metroidvania Action Platformer  
+### 🕹️ Abyss – 2D Metroidvania Action Platformer(PC)
 - Developed core combat, movement, enemy AI, and skill tree systems.  
 - Built using Unity (URP 2D), C#, Timeline, and Aseprite.
 - 👉 [Github](https://github.com/TranPhuongU/Abyss)
 - 👉 [Game demo](https://www.youtube.com/watch?v=y_-wRL4_s0c)
 
-### 🍹 Brainrot – Merge & Pour Mayhem (Mobile)  
+### 🍹 Brainrot – Merge & Pour Mayhem(2D Mobile)  
 - Casual one-finger mini-game with dynamic merging logic and score tracking.  
 - Focused on UX, mobile controls, sound feedback, and performance.
 - 👉 [Github](https://github.com/TranPhuongU/Brainrot) 
 - 👉 [Game demo](https://www.youtube.com/watch?v=2A1IPBrnDXk)
----
 
+### 🏃‍♂️HC Runner – Hyper-Casual 3D Mobile Game
+- Casual one-finger mini-game with dynamic merging logic and score tracking.  
+- Focused on UX, mobile controls, sound feedback, and performance.
+- 👉 [Github](https://github.com/TranPhuongU/HC-Runner) 
+- 👉 [Game demo](https://www.youtube.com/shorts/8sAjaZQp0No)
+---
 ## 📚 Currently Learning
 
 - Developing a 3D survival shooter game in Unity
