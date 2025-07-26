@@ -6,8 +6,6 @@ I'm currently learning more about 3D game development to expand my capabilities.
 In addition to Unity, I'm also familiar with Aseprite for creating and editing 2D sprites:
 ![image](https://github.com/user-attachments/assets/e1a7bb38-850d-4ce9-ae48-6e16a1c38874)
 
-![image](https://github.com/user-attachments/assets/25a8ed03-1cdd-4e62-916d-2155e446c343)
-
 ---
 
 ## 🎮 Projects
