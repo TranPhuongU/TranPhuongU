@@ -28,7 +28,7 @@ In addition to Unity, I'm also familiar with Aseprite for creating and editing 2
 - 👉 [Github](https://github.com/TranPhuongU/HC-Runner) 
 - 👉 [Game demo](https://www.youtube.com/shorts/8sAjaZQp0No)
 
-# 🧱 Hexagon Stack – Hyper-Casual Merge Puzzle Game
+### 🧱 Hexagon Stack – Hyper-Casual Merge Puzzle Game (3D Mobile)
 - Casual one-finger puzzle game on a hexagonal grid with smart merging and score-based progression.
 - Designed with intuitive mobile controls, responsive sound feedback, and optimized performance.
 - 👉 [Github](https://github.com/TranPhuongU/HC-Runner) 
